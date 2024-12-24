@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|c:\\users\\pc\\source\\repos\\registroconsultafallas\\registroconsultafallas\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|solutionrelative:registroconsultafallas\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|c:\\users\\pc\\source\\repos\\registroconsultafallas\\registroconsultafallas\\models\\ptregistrofallasequiposcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|solutionrelative:registroconsultafallas\\models\\ptregistrofallasequiposcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|c:\\users\\pc\\source\\repos\\registroconsultafallas\\registroconsultafallas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|solutionrelative:registroconsultafallas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|c:\\users\\pc\\source\\repos\\registroconsultafallas\\registroconsultafallas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C924FF-F6B8-459E-BD30-09E58B649457}|RegistroConsultaFallas\\RegistroConsultaFallas.csproj|solutionrelative:registroconsultafallas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\Program.cs",
+              "RelativeDocumentMoniker": "RegistroConsultaFallas\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\Program.cs",
+              "RelativeToolTip": "RegistroConsultaFallas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:57:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistroConsultaFallas\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\appsettings.json",
+              "RelativeToolTip": "RegistroConsultaFallas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T19:56:45.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PtRegistroFallasEquiposContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\Models\\PtRegistroFallasEquiposContext.cs",
+              "RelativeDocumentMoniker": "RegistroConsultaFallas\\Models\\PtRegistroFallasEquiposContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\Models\\PtRegistroFallasEquiposContext.cs",
+              "RelativeToolTip": "RegistroConsultaFallas\\Models\\PtRegistroFallasEquiposContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:55:31.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "RegistroConsultaFallas\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RegistroConsultaFallas\\RegistroConsultaFallas\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "RegistroConsultaFallas\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:01:10.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
